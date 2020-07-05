@@ -1,0 +1,10 @@
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\bin\Debug\netcoreapp3.1\AspK8s.exe
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\obj\Debug\netcoreapp3.1\AspK8s.csprojAssemblyReference.cache
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\obj\Debug\netcoreapp3.1\AspK8s.AssemblyInfoInputs.cache
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\obj\Debug\netcoreapp3.1\AspK8s.AssemblyInfo.cs
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\obj\Debug\netcoreapp3.1\AspK8s.RazorTargetAssemblyInfo.cache
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\obj\Debug\netcoreapp3.1\staticwebassets\AspK8s.StaticWebAssets.Manifest.cache
+C:\Users\devduldu\Desktop\AspK8s\AspK8s\obj\Debug\netcoreapp3.1\staticwebassets\AspK8s.StaticWebAssets.xml
