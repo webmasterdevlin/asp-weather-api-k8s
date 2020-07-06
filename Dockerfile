@@ -3,7 +3,7 @@
 FROM mcr.microsoft.com/dotnet/core/aspnet AS base
 WORKDIR /app
 EXPOSE 80
-
+EXPOSE 443
 FROM mcr.microsoft.com/dotnet/core/sdk AS build
 WORKDIR /src
 COPY ["AspK8s/AspK8s.csproj", "AspK8s/"]
