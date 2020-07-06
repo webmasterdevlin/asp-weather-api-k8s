@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxQj5yf301ytXpwG/CCI9IFVwqpVF8p7yHTtuNSvpUNEuj4/YHzjx+HMN06fYA+U7v+KZ/Y0V5uB4mfXC+VHzw==",
+  "dgSpecHash": "t/B7c7MalFBj5i70rUPY2rpiDVIEibOPfSXigEaQkKfhfBo/uQe/j8yN1HuHMwk3a9z8Whw6YQeh0hHktvFz/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\devduldu\\Desktop\\AspK8s\\AspK8s\\AspK8s.csproj",
+  "projectFilePath": "C:\\Users\\devduldu\\Desktop\\AspK8s - WeatherApp\\AspK8s\\AspK8s.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devduldu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

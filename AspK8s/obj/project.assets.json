@@ -90,11 +90,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devduldu\\Desktop\\AspK8s\\AspK8s\\AspK8s.csproj",
+      "projectUniqueName": "C:\\Users\\devduldu\\Desktop\\AspK8s - WeatherApp\\AspK8s\\AspK8s.csproj",
       "projectName": "AspK8s",
-      "projectPath": "C:\\Users\\devduldu\\Desktop\\AspK8s\\AspK8s\\AspK8s.csproj",
+      "projectPath": "C:\\Users\\devduldu\\Desktop\\AspK8s - WeatherApp\\AspK8s\\AspK8s.csproj",
       "packagesPath": "C:\\Users\\devduldu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devduldu\\Desktop\\AspK8s\\AspK8s\\obj\\",
+      "outputPath": "C:\\Users\\devduldu\\Desktop\\AspK8s - WeatherApp\\AspK8s\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
